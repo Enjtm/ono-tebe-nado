@@ -244,9 +244,11 @@ h2{
 }
 
 .about__logo{
+  display: flex;
+  justify-content: center;
   width: 240px;
   height: 240px;
-  background-color: white;
+  background-color: black;
   border-radius: 50%;
   justify-self: center;
 }
